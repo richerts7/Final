@@ -247,9 +247,9 @@ section {
     z-index: 2;    
 }
 
-header #full_nav {
-    padding:20px;
-    marging:20px;
+.full_nav {
+    padding: 15px;
+    marging: 15px;
 }
 
 .header .navbar {

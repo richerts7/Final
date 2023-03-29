@@ -244,9 +244,12 @@ section {
     width: 100%;
     top: 2rem;
     left: 0;
-    z-index: 2;
-     padding: 20px;
-    margin: 20px;
+    z-index: 2;    
+}
+
+header #full_nav {
+    padding:20px;
+    marging:20px;
 }
 
 .header .navbar {

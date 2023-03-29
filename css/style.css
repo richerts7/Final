@@ -148,6 +148,11 @@ button:hover {
     background: var(--secondary-color); 
 }  
 
+header #full_nav{    
+    padding: 20px;
+    margin: 20px;
+};
+
 .main-btn {
     position: relative;
     color: var(--bg-white);
